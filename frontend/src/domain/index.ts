@@ -1,2 +1,1 @@
-// Domain modules export
-export {};
+export * as shapes from './shapes/_module';

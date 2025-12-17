@@ -6,4 +6,7 @@
  * @module services
  */
 
-
+/**
+ * Shape services
+ */
+export * from './shapes';

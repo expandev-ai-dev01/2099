@@ -6,4 +6,7 @@
  * @module instances
  */
 
-
+/**
+ * Shape instances
+ */
+export { shapeStore, type ShapeStateRecord } from './shapes';
